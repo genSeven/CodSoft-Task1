@@ -1,0 +1,3 @@
+go to settings
+seacrh for code-runner-executorMap
+and change python -u to python3 -u
