@@ -17,3 +17,7 @@ Run the script using Python:
 
 ```bash
 python todo.py <command> <item>
+python todo.py add "Finish homework"
+python todo.py list
+python todo.py done 1
+
